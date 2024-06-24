@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Duygu Ülger2</h1>
+<h1 align="center">Hi 👋, I'm Duygu Ülger</h1>
 <h3 align="center">I am a full-stack web developer.</h3>
 
 
